@@ -18,32 +18,14 @@ Requirements for the software and other tools to build, test and push
 A step by step series of examples that tell you how to get a development
 environment running
 
-Say what the step will be
+    npm i
+    npm start
 
-    Give the example
-
-And repeat
-
-    until finished
-
-End with an example of getting some data out of the system or using it
-for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+    npm test
 
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
-
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
 
 ## Deployment
 
@@ -51,10 +33,7 @@ Add additional notes to deploy this on a live system
 
 ## Built With
 
-- [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-  for the Code of Conduct
-- [Creative Commons](https://creativecommons.org/) - Used to choose
-  the license
+- [NestJS](https://nestjs.com/) - backend framework
 
 ## Contributing
 
@@ -69,21 +48,15 @@ repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
 
 ## Authors
 
-- **Billie Thompson** - *Provided README Template* -
-  [PurpleBooth](https://github.com/PurpleBooth)
+- **Ismael Rodmacq** -
+  [ismaouste](https://github.com/ismaouste)
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
 
 ## License
 
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
+This project is licensed under the [Unlicense](LICENSE.md)
+
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code is used
-- Inspiration
-- etc
+- Thanks to [PurpleBooth](https://github.com/PurpleBooth) for [a good readme template](https://github.com/PurpleBooth/a-good-readme-template)
