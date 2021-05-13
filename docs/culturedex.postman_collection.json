@@ -1,0 +1,37 @@
+{
+	"info": {
+		"_postman_id": "3f6bc852-2b33-411f-bfcb-ebb9cf712f5e",
+		"name": "culturedex",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "POP API",
+			"item": []
+		},
+		{
+			"name": "culturedex API",
+			"item": [
+				{
+					"name": "Hello world",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:3000/",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								""
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
